@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sulupt.csgad.com/IuI/sitemap.xml.gz
